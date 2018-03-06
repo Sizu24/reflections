@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	When you initialize a repository with git init, it creates a new repository the current directory,
+	and the files inside of it. Gives a message saying. "Initialized empty Git repository in (current directory name)".
+	This also adds a .Git folder that's hidden inside the directory. You can use git status to check if it actually created
+	a repository, and should say it's at the HEAD of the repository, and no commits yet.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It's in between your directory and a commit. The staging area lets you decide what all files you want to commit at once,
+	instead of committing all of the files, like the ones that you didn't even change. It's like a temp area to make your 
+	decisions.
