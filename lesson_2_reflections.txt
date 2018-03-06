@@ -16,3 +16,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 	You can use the staging area to evaluate your file before you commit, and add multiple files that you changed so it
 	is just all one commit. You can also compare the staged files to the last commit for each file, or the working area
 	to the staged area if you made changes to the file after staging it.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches help if you want to keep a current version of a file, but want to experiment making different versions and still
+	keep the way the original file works.
+	 
