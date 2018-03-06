@@ -27,3 +27,7 @@ How do the diagrams help you visualize the branch structure?
 	Makes it easier to map out the branches, and see which ones connect and are accessible through specific branches, and
 	which ones are not accessible.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	It connects the two branches and you'll have access to each one's commit history. That way it's easier to visualize and follow
+	the commits of each branch, and see how they connect.
