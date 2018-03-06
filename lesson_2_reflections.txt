@@ -21,4 +21,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 	Branches help if you want to keep a current version of a file, but want to experiment making different versions and still
 	keep the way the original file works.
-	 
+
+How do the diagrams help you visualize the branch structure?
+
+	Makes it easier to map out the branches, and see which ones connect and are accessible through specific branches, and
+	which ones are not accessible.
+
