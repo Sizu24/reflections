@@ -10,3 +10,9 @@ How is the staging area different from the working directory and the repository?
 	It's in between your directory and a commit. The staging area lets you decide what all files you want to commit at once,
 	instead of committing all of the files, like the ones that you didn't even change. It's like a temp area to make your 
 	decisions.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can use the staging area to evaluate your file before you commit, and add multiple files that you changed so it
+	is just all one commit. You can also compare the staged files to the last commit for each file, or the working area
+	to the staged area if you made changes to the file after staging it.
