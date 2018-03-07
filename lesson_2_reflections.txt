@@ -31,3 +31,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	It connects the two branches and you'll have access to each one's commit history. That way it's easier to visualize and follow
 	the commits of each branch, and see how they connect.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	Automatic merging is good if you want to keep features or any other branch as always part of your main file. Manually will
+	give you the freedom to choose what exactly you want to keep part of the main file and what you want to get rid of, and at what point
+	you want them to connect.
