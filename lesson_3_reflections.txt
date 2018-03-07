@@ -15,3 +15,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	the files for your own liking. Since it is kept on the GitHub server, it is not called cloning.	
 	Clone is when you copy the repository locally. Branches are different paths for your
 	files.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	Then you can review it offline, when you don't have access to the remote.
