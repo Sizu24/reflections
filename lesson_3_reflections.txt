@@ -8,3 +8,10 @@ Why might you want to always pull changes manually rather than having Git automa
 	Incase you create something on GitHub that you don't want to keep in your local repository. If you have created a file or modified
 	a file on the go, but you weren't sure to keep it or not, you don't want to automatically update everything to your local
 	repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks are when you take someone else's repository from GitHub, and clone it to yours on the GitHub server. It lets you modify
+	the files for your own liking. Since it is kept on the GitHub server, it is not called cloning.	
+	Clone is when you copy the repository locally. Branches are different paths for your
+	files.
